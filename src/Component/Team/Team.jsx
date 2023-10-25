@@ -2,7 +2,6 @@ import React from 'react';
 import Avatar from '@mui/material/Avatar';
 import ListItem from '@mui/material/ListItem';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
-import person1 from '../../assets/Person1.png';
 import ListItemText from '@mui/material/ListItemText';
 import Typography from '@mui/material/Typography';
 import styles from './Team.module.css';

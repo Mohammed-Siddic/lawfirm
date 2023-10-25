@@ -2,7 +2,7 @@ import React from 'react';
 import man from '../../assets/Man.png';
 import styles from './Header.module.css';
 import TextField from '@mui/material/TextField';
-import { Button, Typography } from '@mui/material';
+import { Button } from '@mui/material';
 
 const Header = () => {
   return (
