@@ -1,0 +1,15 @@
+.head {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.side {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn:hover {
+    color: white;
+}

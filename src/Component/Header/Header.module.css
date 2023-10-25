@@ -1,0 +1,38 @@
+.head {
+    color: white;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 50%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.para {
+    text-align: left;
+    color: gray;
+    font-size: large;
+}
+
+#text { 
+    background-color: gray;
+    height: 1.5rem;
+    width: 20rem;
+    padding: 0.5rem;
+    border-radius: 16px;
+    color: white;
+}
+
+.img1 {
+    height: 25rem;
+}
+
+.btn:hover{
+    color: white;
+}
+
+
+

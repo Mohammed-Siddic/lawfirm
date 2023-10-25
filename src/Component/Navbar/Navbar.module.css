@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbarText {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.navimg {
+    object-fit: contain;
+}

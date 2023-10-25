@@ -1,0 +1,13 @@
+.team {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.team1 {
+    display: flex;
+}
+
+.team2 {
+    display: flex;
+}

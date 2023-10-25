@@ -1,0 +1,22 @@
+.footbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footbarText {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.footimg {
+    object-fit: contain;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    color:white;
+    font: 300;
+}

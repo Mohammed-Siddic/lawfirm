@@ -1,0 +1,37 @@
+
+
+.letter {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#name {
+    padding: 10px;
+    margin-right: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+#email {
+    padding: 10px;
+    margin-right: 6px;
+}
+
+#submit {
+    padding: 10px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    cursor: pointer;
+    background-color: rgba(248, 236, 5, 0.872);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.details {
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    background-color: #252525;
+    padding: 50px;
+}
